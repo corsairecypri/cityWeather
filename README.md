@@ -38,3 +38,4 @@ npm start
 ```
 
 If all goes well, you should see the temperature of the city.
+# bug_Coordonnees_original
